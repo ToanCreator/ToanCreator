@@ -2,12 +2,12 @@
   <img src="https://i.ibb.co/WpY7g0Wj/1781919947773.png" width="120px" height="120px" style="border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
 </p>
 
-<h1 align="center">ＴＯＡＮ  ＣＲＥＡＴＯＲ</h1>
+<h2 align="center">ＴＯＡＮ  ＣＲＥＡＴＯＲ</h2>
 
 <h4 align="center" style="margin-bottom: 30px;">I might not be a famous developer yet, but I am determined to grow and build amazing things alongside you!</h4>
 
 <div style="border-top: 1px solid #e1e4e8; padding-top: 20px; margin-top: 20px;">
-  <h2 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:info-fill.svg?color=%233b82f6" width="28px" style="vertical-align: middle; display: inline;"> <b>DEVELOPER INFORMATION</b></h2>
+  <h3 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:info-fill.svg?color=%233b82f6" width="28px" style="vertical-align: middle; display: inline;"> <b>DEVELOPER INFORMATION</b></h3>
 </div>
 
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%233b82f6" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> Full Name: **Trần Hoàng Toàn**
@@ -23,7 +23,7 @@
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%233b82f6" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> Tools: **React, Next.js, Node.js, Git**
 
 <div style="border-top: 1px solid #e1e4e8; padding-top: 20px; margin-top: 30px;">
-  <h2 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:check-circle-fill.svg?color=%2310b981" width="28px" style="vertical-align: middle; display: inline;"> <b>WHAT I OFFER</b></h2>
+  <h3 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:check-circle-fill.svg?color=%2310b981" width="28px" style="vertical-align: middle; display: inline;"> <b>WHAT I OFFER</b></h3>
 </div>
 
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Creativity:** Come up with many creative and groundbreaking ideas.
@@ -33,7 +33,7 @@
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Refactoring:** Keep your directory structure and source code logic clean and easy to read, even for beginners.
 
 <div style="border-top: 1px solid #e1e4e8; padding-top: 20px; margin-top: 30px;">
-  <h2 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:link-bold.svg?color=%23a855f7" width="28px" style="vertical-align: middle; display: inline;"> <b>CONNECT WITH ME</b></h2>
+  <h3 style="margin-top: 0px; margin-bottom: 15px;"><img src="https://api.iconify.design/ph:link-bold.svg?color=%23a855f7" width="28px" style="vertical-align: middle; display: inline;"> <b>CONNECT WITH ME</b></h3>
 </div>
 
 <table border="0" cellpadding="0" cellspacing="10">
