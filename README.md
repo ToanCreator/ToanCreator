@@ -28,7 +28,7 @@
 
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Creativity:** Come up with many creative and groundbreaking ideas.
 
-<img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Calmness:** Friendly, approachable, and always keep a cool head.
+<img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Kindness:** Friendly, approachable, and always keep a cool head.
 
 <img src="https://api.iconify.design/ph:arrow-fat-lines-right-fill.svg?color=%2310b981" width="16px" style="vertical-align: middle; display: inline; margin-right: 5px;"> **Refactoring:** Keep your directory structure and source code logic clean and easy to read, even for beginners.
 
