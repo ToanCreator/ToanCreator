@@ -50,7 +50,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
-## 👋 About Me
+## About Me
 
 > **I build reliable, scalable software** — from pixel-perfect interfaces to cloud-native backends — and I care about measurable impact over buzzwords.
 
@@ -78,10 +78,10 @@ const developer = {
 ```text
 $ ./currently_learning --progress
 
-Rust           ████████░░░░  65%
-Kubernetes     ██████░░░░░░  50%
-System Design  ██████████░░  85%
-LLM / RAG      ███████░░░░░  60%
+Python         ████████░░░░  65%
+C++            ██████░░░░░░  50%
+CSS            ██████████░░  85%
+JavaScript     ███████░░░░░  60%
 ```
 
 </td>
@@ -90,21 +90,50 @@ LLM / RAG      ███████░░░░░  60%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
-| Category | Technologies |
-| :-- | :-- |
-| **⚡ Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages"/> |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/> |
-| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database"/> |
-| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,githubactions,linux&theme=dark" alt="DevOps"/> |
-| **🤖 AI / Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI"/> |
-| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash&theme=dark" alt="Tools"/> |
+<div align="center">
+
+<table align="center">
+  <tr>
+    <th align="center">Category</th>
+    <th align="center">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center"><b>⚡ Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,githubactions,linux&theme=dark" alt="DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI / Data</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash&theme=dark" alt="Tools"/></td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- Thay REPO_1..4 bằng tên repo thật. Mỗi card tự lấy mô tả, ngôn ngữ, star, fork từ GitHub -->
 
@@ -135,7 +164,7 @@ LLM / RAG      ███████░░░░░  60%
 </tr>
 </table>
 
-### 🎬 Live Demos
+### Live Demos
 
 <!-- Thay bằng GIF/screenshot thật: ./assets/demo-1.gif — GIF 5-10 giây là thứ nhà tuyển dụng xem nhiều nhất -->
 
@@ -154,7 +183,7 @@ LLM / RAG      ███████░░░░░  60%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table>
 <tr>
@@ -189,5 +218,3 @@ LLM / RAG      ███████░░░░░  60%
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F0FF,55:1F6FEB,100:0A0E1A&section=footer" width="100%" alt="Footer"/>
-
-</div>
