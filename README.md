@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E1A,50:1F6FEB,100:00F0FF&text=YOUR%20NAME&fontColor=FFFFFF&fontSize=64&fontAlignY=38&stroke=00F0FF&strokeWidth=1&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descSize=20&descAlignY=60&animation=fadeIn&section=header" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E1A,50:1F6FEB,100:00F0FF&text=TOÀN%20CREATOR&fontColor=FFFFFF&fontSize=64&fontAlignY=38&stroke=00F0FF&strokeWidth=1&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descSize=20&descAlignY=60&animation=fadeIn&section=header" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/ToanCreator">
   <picture>
@@ -22,6 +22,15 @@
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E1A" alt="LinkedIn"/></a>
 <a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A" alt="Portfolio"/></a>
 <a href="./assets/Your_Name_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-00F0FF?style=for-the-badge&logo=readthedocs&logoColor=00F0FF&labelColor=0A0E1A" alt="CV"/></a>
+
+<sub>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/last-commit/ToanCreator/ToanCreator?style=flat-square&label=Last%20updated&labelColor=0A0E1A&color=1F6FEB" alt="Last updated"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
+
 
 <br/><br/>
 
@@ -88,29 +97,19 @@ LLM / RAG      ███████░░░░░  60%
 </tr>
 </table>
 
-<table>
-<tr>
-<td align="center" width="33%">⚡<br/><b>Ship fast, ship right</b><br/><sub>CI/CD, tests & code review by default</sub></td>
-<td align="center" width="33%">📐<br/><b>Design for scale</b><br/><sub>Clean architecture, observability, performance budgets</sub></td>
-<td align="center" width="33%">🤝<br/><b>Team-first</b><br/><sub>Clear docs, mentoring, async-friendly communication</sub></td>
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
 ## 🧰 Tech Stack
 
-<!-- Danh sách icon đầy đủ: https://skillicons.dev — chỉ giữ lại công nghệ bạn THỰC SỰ dùng được -->
-
 | Category | Technologies |
 | :-- | :-- |
-| **⚡ Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,go,rust,cpp,cs&theme=dark" alt="Languages"/> |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite,html,css&theme=dark" alt="Frontend"/> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring,graphql&theme=dark" alt="Backend"/> |
-| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,prisma&theme=dark" alt="Database"/> |
+| **⚡ Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages"/> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database"/> |
 | **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux&theme=dark" alt="DevOps"/> |
 | **🤖 AI / Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI"/> |
-| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash&theme=dark" alt="Tools"/> |
+| **🛠️ Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscodefigma,bash&theme=dark" alt="Tools"/> |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
@@ -225,27 +224,6 @@ LLM / RAG      ███████░░░░░  60%
 | **2023 — 2024** | **Full-Stack Developer**<br/>Company B | • Shipped **6 customer-facing features** used by **50k+ users**<br/>• Built CI/CD pipeline: deploy time **40min → 6min** |
 | **2022 — 2023** | **Software Engineering Intern**<br/>Company C | • Delivered internal dashboard adopted by **4 departments**<br/>• Converted to full-time offer |
 | **2019 — 2023** | **B.Sc. Computer Science**<br/>Your University | GPA **3.6 / 4.0** · Thesis: *"Your thesis title"* · Student club lead |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
-
-## 📫 Contact
-
-<div align="center">
-
-**Open to full-time roles · remote-friendly · freelance & open-source collaboration**
-
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your%40email.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E1A" alt="LinkedIn"/></a>
-<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Website-your--site.dev-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A" alt="Website"/></a>
-<a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-Chat-1F6FEB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0E1A" alt="Telegram"/></a>
-
-<br/><br/>
-
-<sub>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/last-commit/ToanCreator/ToanCreator?style=flat-square&label=Last%20updated&labelColor=0A0E1A&color=1F6FEB" alt="Last updated"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F0FF,55:1F6FEB,100:0A0E1A&section=footer" width="100%" alt="Footer"/>
 
