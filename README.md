@@ -10,34 +10,38 @@
   </picture>
 </a>
 
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToanCreator&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=0A0E1A&title_color=00F0FF&text_color=FFFFFF&icon_color=2F81F7&ring_color=00F0FF&border_color=1F6FEB&border_radius=12" width="100%" alt="GitHub stats"/>
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanCreator&layout=donut&langs_count=8&bg_color=0A0E1A&title_color=00F0FF&text_color=FFFFFF&border_color=1F6FEB&border_radius=12" width="100%" alt="Top languages"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ToanCreator&background=0A0E1A&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=8B9BB4&dates=8B9BB4&border=1F6FEB&stroke=1F6FEB&border_radius=12" width="100%" alt="Streak stats"/>
+
+<!-- Snake: cần workflow snake.yml (xem file đi kèm). Sau lần chạy đầu sẽ có nhánh `output` -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
 <br></br>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=0A0E1A" alt="Open to work"/>
-<img src="https://img.shields.io/github/followers/ToanCreator?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0E1A&color=1F6FEB" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=ToanCreator&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
-
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E1A" alt="LinkedIn"/></a>
-<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A" alt="Portfolio"/></a>
-<a href="./assets/Your_Name_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-00F0FF?style=for-the-badge&logo=readthedocs&logoColor=00F0FF&labelColor=0A0E1A" alt="CV"/></a>
-
-<sub>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</sub>
-
-<img src="https://img.shields.io/github/last-commit/ToanCreator/ToanCreator?style=flat-square&label=Last%20updated&labelColor=0A0E1A&color=1F6FEB" alt="Last updated"/>
-
-<br></br>
-
-<a href="#-about-me"><kbd> ABOUT </kbd></a>
-<a href="#-tech-stack"><kbd> STACK </kbd></a>
-<a href="#-featured-projects"><kbd> PROJECTS </kbd></a>
-<a href="#-github-analytics"><kbd> ANALYTICS </kbd></a>
-
 
 </div>
 
 <br/>
 
 <!-- ════════════════════════ KPI STRIP ════════════════════════ -->
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%"><h2>3+</h2><sub><b>YEARS EXPERIENCE</b></sub></td>
@@ -183,37 +187,23 @@ JavaScript     ███████░░░░░  60%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
-## GitHub Analytics
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToanCreator&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=0A0E1A&title_color=00F0FF&text_color=FFFFFF&icon_color=2F81F7&ring_color=00F0FF&border_color=1F6FEB&border_radius=12" width="100%" alt="GitHub stats"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanCreator&layout=donut&langs_count=8&bg_color=0A0E1A&title_color=00F0FF&text_color=FFFFFF&border_color=1F6FEB&border_radius=12" width="100%" alt="Top languages"/>
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ToanCreator&background=0A0E1A&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=8B9BB4&dates=8B9BB4&border=1F6FEB&stroke=1F6FEB&border_radius=12" width="100%" alt="Streak stats"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=0A0E1A" alt="Open to work"/>
+<img src="https://img.shields.io/github/followers/ToanCreator?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0A0E1A&color=1F6FEB" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ToanCreator&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
 
-<!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToanCreator&bg_color=0A0E1A&color=FFFFFF&line=00F0FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&title_color=00F0FF" width="100%" alt="Activity graph"
--->
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A" alt="Email"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E1A" alt="LinkedIn"/></a>
+<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A" alt="Portfolio"/></a>
+<a href="./assets/Your_Name_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-00F0FF?style=for-the-badge&logo=readthedocs&logoColor=00F0FF&labelColor=0A0E1A" alt="CV"/></a>
 
-<!-- Snake: cần workflow snake.yml (xem file đi kèm). Sau lần chạy đầu sẽ có nhánh `output` -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ToanCreator/ToanCreator/output/github-snake-dark.svg" width="100%">
-</picture>
+<sub>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</sub>
 
-<!--
-<img src="https://github-profile-trophy.vercel.app/?username=ToanCreator&theme=tokyonight&no-frame=true&margin-w=10&column=7&row=1" alt="Trophies"/>
--->
+<img src="https://img.shields.io/github/last-commit/ToanCreator/ToanCreator?style=flat-square&label=Last%20updated&labelColor=0A0E1A&color=1F6FEB" alt="Last updated"/>
 
 </div>
 
