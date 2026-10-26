@@ -51,17 +51,15 @@
   <text x="48" y="199" class="k">education</text>
   <text x="250" y="199" class="v">B.Sc. Software Engineer — EIU</text>
   <text x="48" y="228" class="k">experience</text>
-  <text x="250" y="228" class="v">3+ years shipping production code</text>
+  <text x="250" y="228" class="v">0+ years shipping production code</text>
   <text x="48" y="257" class="k">languages</text>
   <text x="250" y="257" class="v">Vietnamese (native) · English (IELTS 7.0)</text>
-  <text x="48" y="286" class="k">currentlyBuilding</text>
-  <text x="250" y="286" class="v">AI-powered SaaS for ...</text>
-  <text x="48" y="315" class="k">lookingFor</text>
-  <text x="250" y="315" class="v">Full-time · Remote-friendly · OSS collabs</text>
-  <text x="48" y="344" class="k">funFact</text>
-  <text x="250" y="344" class="v">Coffee → Pull Request</text>
+  <text x="48" y="286" class="k">lookingFor</text>
+  <text x="250" y="286" class="v">Full-time · Remote-friendly · OSS collabs</text>
+  <text x="48" y="315" class="k">funFact</text>
+  <text x="250" y="315" class="v">Coffee → Pull Request</text>
 
-  <text x="48" y="379" class="title">};</text>
+  <text x="48" y="344" class="title">};</text>
 
   <rect class="edge" x="2" y="2" width="896" height="396" rx="18" fill="none" stroke="#00F0FF" stroke-width="2" filter="url(#glow)"/>
 </svg>
