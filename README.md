@@ -58,81 +58,16 @@
 
 > **I build reliable, scalable software** — from pixel-perfect interfaces to cloud-native backends — and I care about measurable impact over buzzwords.
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```ts
-const developer = {
-  name: "Trần Hoàng Toàn",
-  role: "Full-Stack Engineer",
-  location: "Binh Duong City, Country 🇻🇳",
-  education: "B.Sc. Software Engineer — EIU",
-  experience: "3+ years shipping production code",
-  languages: ["Vietnamese (native)", "English (IELTS 7.0)"],
-  currentlyBuilding: "AI-powered SaaS for ...",
-  lookingFor: ["Full-time", "Remote-friendly", "OSS collabs"],
-  funFact: "Coffee ☕ → Pull Request ✅",
-};
-```
-
-</td>
-<td width="40%" valign="top">
-
-```text
-$ ./currently_learning --progress
-
-Python         ████████░░░░  65%
-C++            ██████░░░░░░  50%
-CSS            ██████████░░  85%
-JavaScript     ███████░░░░░  60%
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/about-me.svg" width="100%" alt="Toàn Creator Info"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
 ## Tech Stack
 
 <div align="center">
-
-<table align="center">
-  <tr>
-    <th align="center">Category</th>
-    <th align="center">Technologies</th>
-  </tr>
-  <tr>
-    <td align="center"><b>⚡ Languages</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Cloud & DevOps</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws,githubactions,linux&theme=dark" alt="DevOps"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI / Data</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ Tools</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash&theme=dark" alt="Tools"/></td>
-  </tr>
-</table>
-
+  <img src="./assets/tech-stack.svg" width="100%" alt="Languages and tools: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, NestJS, PostgreSQL, MySQL, MongoDB, AWS, GitHub Actions, Linux, PyTorch, TensorFlow, OpenCV, Git, GitHub, VS Code, Figma, Bash"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
