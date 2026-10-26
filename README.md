@@ -34,23 +34,15 @@
 
 </div>
 
-<br></br>
+<br>
 
 </div>
 
-<br/>
-
 <!-- ════════════════════════ KPI STRIP ════════════════════════ -->
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%"><h2>3+</h2><sub><b>YEARS EXPERIENCE</b></sub></td>
-    <td align="center" width="20%"><h2>25+</h2><sub><b>PROJECTS SHIPPED</b></sub></td>
-    <td align="center" width="20%"><h2>40+</h2><sub><b>MERGED OSS PRs</b></sub></td>
-    <td align="center" width="20%"><h2>1M+</h2><sub><b>REQUESTS / DAY SERVED</b></sub></td>
-    <td align="center" width="20%"><h2>5</h2><sub><b>CERTIFICATIONS</b></sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Languages and tools: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, NestJS, PostgreSQL, MySQL, MongoDB, AWS, GitHub Actions, Linux, PyTorch, TensorFlow, OpenCV, Git, GitHub, VS Code, Figma, Bash"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
 
@@ -60,14 +52,6 @@
 
 <div align="center">
   <img src="./assets/about-me.svg" width="100%" alt="Toàn Creator Info"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
-
-## Tech Stack
-
-<div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Languages and tools: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Next.js, Tailwind, Node.js, Express, NestJS, PostgreSQL, MySQL, MongoDB, AWS, GitHub Actions, Linux, PyTorch, TensorFlow, OpenCV, Git, GitHub, VS Code, Figma, Bash"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0E1A,50:00F0FF,100:0A0E1A" width="100%" alt=""/>
@@ -136,7 +120,7 @@
 <a href="https://your-site.dev"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E1A" alt="Portfolio"/></a>
 <a href="./assets/Your_Name_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-00F0FF?style=for-the-badge&logo=readthedocs&logoColor=00F0FF&labelColor=0A0E1A" alt="CV"/></a>
 
-<sub>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</sub>
+<sub><b>⚡ Typical response time: &lt; 24h &nbsp;·&nbsp; 🕐 Timezone: UTC+7 (GMT+7)</b></sub>
 
 <img src="https://img.shields.io/github/last-commit/ToanCreator/ToanCreator?style=flat-square&label=Last%20updated&labelColor=0A0E1A&color=1F6FEB" alt="Last updated"/>
 
