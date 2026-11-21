@@ -94,7 +94,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-  <a href="https://demo-1.your-site.dev"><img src="https://placehold.co/600x340/0A0E1A/00F0FF/png?text=Project+1+Demo+GIF" width="100%" alt="Project 1 demo"/></a><br/>
+  <a href="https://linguachatai.netlify.app"><img src="https://raw.githubusercontent.com/ToanCreator/ToanCreator/refs/heads/main/Media/LinguaChatAIDemo.gif" width="100%" alt="LinguaChatAI"/></a><br/>
   <sub><b>Project One</b> — click to open live demo</sub>
 </td>
 <td align="center" width="50%">
